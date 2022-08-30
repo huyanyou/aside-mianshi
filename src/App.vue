@@ -9,7 +9,7 @@ import { ref, Ref } from 'vue';
   <el-container class="full">
     <el-header height="'30%'">Header</el-header>
     <el-container style=" height:calc(100% - 30%)">
-      <el-aside width="200px" style="height:100%;overflow-y:hidden">
+      <el-aside width="204px" style="height:100%;overflow-y:hidden">
         <aside-one></aside-one>
       </el-aside>
       <el-main>Main</el-main>
